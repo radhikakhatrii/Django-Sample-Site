@@ -1,0 +1,37 @@
+/* Set the primary color */
+:root {
+    --primary-color: #0080ff;
+  }
+  
+  /* Apply the primary color to various elements */
+  body {
+    background-color: #f5f5f5;
+    color: #333;
+  }
+  
+  a {
+    color: var(--primary-color);
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--primary-color);
+  }
+  
+  /* Style the navigation menu */
+  .navbar {
+    background-color: var(--primary-color);
+    color: #fff;
+  }
+  
+  .navbar .navbar-brand {
+    color: #fff;
+  }
+  
+  .navbar .nav-link {
+    color: #fff;
+  }
+  
+  .navbar .nav-link:hover {
+    color: #f0f0f0;
+  }
+  
