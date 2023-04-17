@@ -1,3 +1,3 @@
 # Django-Sample-Site
 
-Type python manage.py run server on your terminal to run the code.
+Type python manage.py runserver on your terminal to run the code.
